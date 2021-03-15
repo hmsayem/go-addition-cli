@@ -1,1 +1,1 @@
-##CLI for addition in golang with cobra
+## CLI for addition in golang with cobra
